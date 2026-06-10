@@ -23,11 +23,22 @@ https://travel-explorer-backend-1.onrender.com/
 Add screenshots of:
 
 - Home Page
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddc49a52-8bc9-46c4-b55d-11406005033f" />
+
 - Destinations Page
+- <img width="1920" height="1080" alt="Screenshot 2026-06-11 010059" src="https://github.com/user-attachments/assets/8d09de89-5adb-496f-90c5-1f9706ea617f" />
+
 - Destination Details Page
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/599fc20d-5fdf-4990-b570-e6a1fca1ada2" />
+
 - Login Page
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a781378-40af-4965-a113-8a99ca90004e" />
+
 - Register Page
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/292391ff-6f78-4bbd-8f04-5a13dd87c735" />
+
 - Favorites Page
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86b459f5-7a56-44fd-8d08-e3d932e6cc9d" />
 
 ---
 
